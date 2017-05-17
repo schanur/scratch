@@ -31,6 +31,10 @@ Produce the smallest possible PNG file pngcrush can produce
 Create a LUKS dm-crypt volume with very secure crypto/hash settings.
 
 ### Virtualization
-* **fast-qemu:** Start a qemu instance with settings optimized for speed
-* **fast-qemu-no-kvm:** Start a qemu instance with settings optimized for speed but without hardware virtualization support
-* **fast-qemu-img:** Create a new qcow2 virtual machine image with performance optimizations
+* **fast-qemu:**
+Start a qemu instance with settings optimized for speed
+* **fast-qemu-no-kvm:**
+    Start a qemu instance with settings optimized for speed but without hardware virtualization support
+* **fast-qemu-img:**
+  - Create a new qcow2 virtual machine image with performance optimizations
+* ## test
