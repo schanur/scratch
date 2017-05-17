@@ -26,7 +26,7 @@ Produce the smallest possible PNG file pngcrush can produce
 * **max-exhaustive-valgrind-memcheck:** <br>Runs the valgrind memcheck tool with settings for to find maximum numbers of errors
 
 ### Security
-* **max-secure-luks-format:** Create a LUKS dm-crypt volume with very secure crypto/hash settings.
+* **max-secure-luks-format:**  Create a LUKS dm-crypt volume with very secure crypto/hash settings.
 
 ### Virtualization
 * **fast-qemu:** Start a qemu instance with settings optimized for speed
