@@ -20,10 +20,10 @@ Produce the smallest possible PNG file pngcrush can produce
 * **max-nice:** <br>Run an application with the least intruding scheduling policies on CPU, IO, fsync operations.
 
 ### Development
-* **max-exhaustive-valgrind-drd:** Runs the valgrind DRD tool with settings for to find maximum numbers of errors
-* **max-exhaustive-valgrind-exp-sgcheck:** Runs the valgrind exp-sgcheck tool with settings for to find maximum numbers of errors
-* **max-exhaustive-valgrind-helgrind:** Runs the valgrind helgrind tool with settings for to find maximum numbers of errors
-* **max-exhaustive-valgrind-memcheck:** Runs the valgrind memcheck tool with settings for to find maximum numbers of errors
+* **max-exhaustive-valgrind-drd:** <br>Runs the valgrind DRD tool with settings for to find maximum numbers of errors
+* **max-exhaustive-valgrind-exp-sgcheck:** <br>Runs the valgrind exp-sgcheck tool with settings for to find maximum numbers of errors
+* **max-exhaustive-valgrind-helgrind:** <br>Runs the valgrind helgrind tool with settings for to find maximum numbers of errors
+* **max-exhaustive-valgrind-memcheck:** <br>Runs the valgrind memcheck tool with settings for to find maximum numbers of errors
 
 ### Security
 * **max-secure-luks-format:** Create a LUKS dm-crypt volume with very secure crypto/hash settings.
