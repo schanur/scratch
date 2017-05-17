@@ -10,7 +10,8 @@
 | ##ext    | ##extension to be used for dest files. |
 
 ### Multimedia
-* **max-optipng:** Runs optipng with slowest settings to archieve maximum PNG file compression
+* **max-optipng:**
+    Runs optipng with slowest settings to archieve maximum PNG file compression
 * **max-pngcush:** Produce the smallest possible PNG file pngcrush can produce
 * **max-quality-yt-music-dl:** Download the YouTube video with the highest audio quality and extract the audio file.
 
