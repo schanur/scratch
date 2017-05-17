@@ -12,11 +12,12 @@
 ### Multimedia
 * **max-optipng:**
     Runs optipng with slowest settings to archieve maximum PNG file compression
-* **max-pngcush:** Produce the smallest possible PNG file pngcrush can produce
-* **max-quality-yt-music-dl:** Download the YouTube video with the highest audio quality and extract the audio file.
+* **max-pngcush:**
+Produce the smallest possible PNG file pngcrush can produce
+* **max-quality-yt-music-dl:** </n>Download the YouTube video with the highest audio quality and extract the audio file.
 
 ### Scheduling
-* **max-nice:** Run an application with the least intruding scheduling policies on CPU, IO, fsync operations.
+* **max-nice:** <br>Run an application with the least intruding scheduling policies on CPU, IO, fsync operations.
 
 ### Development
 * **max-exhaustive-valgrind-drd:** Runs the valgrind DRD tool with settings for to find maximum numbers of errors
